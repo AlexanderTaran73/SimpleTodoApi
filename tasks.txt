@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Buy groceries",
+    "priority": "high",
+    "isDone": false
+  },
+  {
+    "id": 2,
+    "title": "Finish Python assignment",
+    "priority": "high",
+    "isDone": true
+  },
+  {
+    "id": 3,
+    "title": "Call mom",
+    "priority": "normal",
+    "isDone": false
+  },
+  {
+    "id": 4,
+    "title": "Go to the gym",
+    "priority": "low",
+    "isDone": false
+  },
+  {
+    "id": 5,
+    "title": "Read a book",
+    "priority": "low",
+    "isDone": true
+  },
+  {
+    "id": 6,
+    "title": "Prepare for meeting",
+    "priority": "high",
+    "isDone": true
+  },
+  {
+    "id": 7,
+    "title": "Clean the room",
+    "priority": "normal",
+    "isDone": false
+  },
+  {
+    "id": 8,
+    "title": "Pay bills",
+    "priority": "high",
+    "isDone": false
+  },
+  {
+    "id": 9,
+    "title": "Learn new programming concept",
+    "priority": "normal",
+    "isDone": true
+  },
+  {
+    "id": 10,
+    "title": "Plan weekend activities",
+    "priority": "low",
+    "isDone": true
+  }
+]

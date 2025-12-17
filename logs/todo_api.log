@@ -1,0 +1,140 @@
+2025-12-18 01:02:40 - __main__ - INFO - ╔══════════════════════════════════════════╗
+2025-12-18 01:02:40 - __main__ - INFO - ║         Simple Todo Api v1.0             ║
+2025-12-18 01:02:40 - __main__ - INFO - ║         HTTP Task Management    :)       ║
+2025-12-18 01:02:40 - __main__ - INFO - ╚══════════════════════════════════════════╝
+2025-12-18 01:02:40 - __main__ - INFO - 
+2025-12-18 01:02:40 - __main__ - INFO - Server URL: http://localhost:8000
+2025-12-18 01:02:40 - __main__ - INFO - Storage: tasks.txt
+2025-12-18 01:02:40 - __main__ - INFO - Logs: logs/todo_api.log
+2025-12-18 01:02:40 - __main__ - INFO - 
+2025-12-18 01:02:40 - __main__ - INFO - Available endpoints:
+2025-12-18 01:02:40 - __main__ - INFO -   POST /tasks                 - Create new task
+2025-12-18 01:02:40 - __main__ - INFO -   GET  /tasks                 - Get all tasks
+2025-12-18 01:02:40 - __main__ - INFO -   POST /tasks/{id}/complete   - Mark task as completed
+2025-12-18 01:02:40 - __main__ - INFO - 
+2025-12-18 01:02:40 - __main__ - INFO - Press Ctrl+C to stop the server
+2025-12-18 01:02:40 - __main__ - INFO - ==================================================
+2025-12-18 01:02:40 - server - INFO - Todo API Server starting on http://localhost:8000
+2025-12-18 01:02:40 - server - INFO - Storage file: tasks.txt
+2025-12-18 01:02:40 - server - INFO - Ready to accept connections
+2025-12-18 01:04:46 - handler - WARNING - GET / - Not found
+2025-12-18 01:04:46 - handler - INFO - 127.0.0.1 - "GET / HTTP/1.1" 404 -
+2025-12-18 01:04:55 - handler - INFO - GET /tasks from 127.0.0.1
+2025-12-18 01:04:55 - handler - INFO - 127.0.0.1 - "GET /tasks HTTP/1.1" 200 -
+2025-12-18 01:07:56 - __main__ - INFO - ╔══════════════════════════════════════════╗
+2025-12-18 01:07:56 - __main__ - INFO - ║         Simple Todo Api v1.0             ║
+2025-12-18 01:07:56 - __main__ - INFO - ║         HTTP Task Management    :)       ║
+2025-12-18 01:07:56 - __main__ - INFO - ╚══════════════════════════════════════════╝
+2025-12-18 01:07:56 - __main__ - INFO - 
+2025-12-18 01:07:56 - __main__ - INFO - Server URL: http://localhost:8000
+2025-12-18 01:07:56 - __main__ - INFO - Storage: tasks.txt
+2025-12-18 01:07:56 - __main__ - INFO - Logs: logs/todo_api.log
+2025-12-18 01:07:56 - __main__ - INFO - 
+2025-12-18 01:07:56 - __main__ - INFO - Available endpoints:
+2025-12-18 01:07:56 - __main__ - INFO -   POST /tasks                 - Create new task
+2025-12-18 01:07:56 - __main__ - INFO -   GET  /tasks                 - Get all tasks
+2025-12-18 01:07:56 - __main__ - INFO -   POST /tasks/{id}/complete   - Mark task as completed
+2025-12-18 01:07:56 - __main__ - INFO - 
+2025-12-18 01:07:56 - __main__ - INFO - Press Ctrl+C to stop the server
+2025-12-18 01:07:56 - __main__ - INFO - ==================================================
+2025-12-18 01:07:56 - server - INFO - Todo API Server starting on http://localhost:8000
+2025-12-18 01:07:56 - server - INFO - Storage file: tasks.txt
+2025-12-18 01:07:56 - server - INFO - Ready to accept connections
+2025-12-18 01:08:01 - handler - INFO - GET /tasks from 127.0.0.1
+2025-12-18 01:08:01 - handler - INFO - 127.0.0.1 - "GET /tasks HTTP/1.1" 200 -
+2025-12-18 01:08:07 - handler - INFO - GET /tasks from 127.0.0.1
+2025-12-18 01:08:07 - handler - INFO - 127.0.0.1 - "GET /tasks HTTP/1.1" 200 -
+2025-12-18 01:08:08 - handler - INFO - GET /tasks from 127.0.0.1
+2025-12-18 01:08:08 - handler - INFO - 127.0.0.1 - "GET /tasks HTTP/1.1" 200 -
+2025-12-18 01:10:02 - __main__ - INFO - ╔══════════════════════════════════════════╗
+2025-12-18 01:10:02 - __main__ - INFO - ║         Simple Todo Api v1.0             ║
+2025-12-18 01:10:02 - __main__ - INFO - ║         HTTP Task Management    :)       ║
+2025-12-18 01:10:02 - __main__ - INFO - ╚══════════════════════════════════════════╝
+2025-12-18 01:10:02 - __main__ - INFO - 
+2025-12-18 01:10:02 - __main__ - INFO - Server URL: http://localhost:8000
+2025-12-18 01:10:02 - __main__ - INFO - Storage: tasks.txt
+2025-12-18 01:10:02 - __main__ - INFO - Logs: logs/todo_api.log
+2025-12-18 01:10:02 - __main__ - INFO - 
+2025-12-18 01:10:02 - __main__ - INFO - Available endpoints:
+2025-12-18 01:10:02 - __main__ - INFO -   POST /tasks                 - Create new task
+2025-12-18 01:10:02 - __main__ - INFO -   GET  /tasks                 - Get all tasks
+2025-12-18 01:10:02 - __main__ - INFO -   POST /tasks/{id}/complete   - Mark task as completed
+2025-12-18 01:10:02 - __main__ - INFO - 
+2025-12-18 01:10:02 - __main__ - INFO - Press Ctrl+C to stop the server
+2025-12-18 01:10:02 - __main__ - INFO - ==================================================
+2025-12-18 01:10:02 - server - INFO - Todo API Server starting on http://localhost:8000
+2025-12-18 01:10:02 - server - INFO - Storage file: tasks.txt
+2025-12-18 01:10:02 - server - INFO - Ready to accept connections
+2025-12-18 01:10:07 - handler - INFO - GET /tasks from 127.0.0.1
+2025-12-18 01:10:07 - handler - INFO - 127.0.0.1 - "GET /tasks HTTP/1.1" 200 -
+2025-12-18 01:10:14 - handler - INFO - GET /tasks from 127.0.0.1
+2025-12-18 01:10:14 - handler - INFO - 127.0.0.1 - "GET /tasks HTTP/1.1" 200 -
+2025-12-18 01:11:57 - handler - INFO - POST /tasks/10/complete from 127.0.0.1
+2025-12-18 01:11:57 - storage - INFO - Task completed: [✓] 10: Plan weekend activities (low)
+2025-12-18 01:11:57 - handler - INFO - Task 10 marked as completed
+2025-12-18 01:11:57 - handler - INFO - 127.0.0.1 - "POST /tasks/10/complete HTTP/1.1" 200 -
+2025-12-18 01:11:57 - handler - WARNING - GET /tasks/10/complete - Not found
+2025-12-18 01:11:57 - handler - INFO - 127.0.0.1 - "GET /tasks/10/complete HTTP/1.1" 404 -
+2025-12-18 01:12:25 - handler - INFO - GET /tasks from 127.0.0.1
+2025-12-18 01:12:25 - handler - INFO - 127.0.0.1 - "GET /tasks HTTP/1.1" 200 -
+2025-12-18 01:16:42 - __main__ - INFO - ╔══════════════════════════════════════════╗
+2025-12-18 01:16:42 - __main__ - INFO - ║         Simple Todo Api v1.0             ║
+2025-12-18 01:16:42 - __main__ - INFO - ║         HTTP Task Management    :)       ║
+2025-12-18 01:16:42 - __main__ - INFO - ╚══════════════════════════════════════════╝
+2025-12-18 01:16:42 - __main__ - INFO - 
+2025-12-18 01:16:42 - __main__ - INFO - Server URL: http://localhost:8000
+2025-12-18 01:16:42 - __main__ - INFO - Storage: tasks.txt
+2025-12-18 01:16:42 - __main__ - INFO - Logs: logs/todo_api.log
+2025-12-18 01:16:42 - __main__ - INFO - 
+2025-12-18 01:16:42 - __main__ - INFO - Available endpoints:
+2025-12-18 01:16:42 - __main__ - INFO -   POST /tasks                 - Create new task
+2025-12-18 01:16:42 - __main__ - INFO -   GET  /tasks                 - Get all tasks
+2025-12-18 01:16:42 - __main__ - INFO -   POST /tasks/{id}/complete   - Mark task as completed
+2025-12-18 01:16:42 - __main__ - INFO - 
+2025-12-18 01:16:42 - __main__ - INFO - Press Ctrl+C to stop the server
+2025-12-18 01:16:42 - __main__ - INFO - ==================================================
+2025-12-18 01:16:42 - server - INFO - Todo API Server starting on http://localhost:8000
+2025-12-18 01:16:42 - server - INFO - Storage file: tasks.txt
+2025-12-18 01:16:42 - server - INFO - Ready to accept connections
+2025-12-18 01:19:42 - __main__ - INFO - ╔══════════════════════════════════════════╗
+2025-12-18 01:19:42 - __main__ - INFO - ║         Simple Todo Api v1.0             ║
+2025-12-18 01:19:42 - __main__ - INFO - ║         HTTP Task Management    :)       ║
+2025-12-18 01:19:42 - __main__ - INFO - ╚══════════════════════════════════════════╝
+2025-12-18 01:19:42 - __main__ - INFO - 
+2025-12-18 01:19:42 - __main__ - INFO - Server URL: http://localhost:8080
+2025-12-18 01:19:42 - __main__ - INFO - Storage: tasks.txt
+2025-12-18 01:19:42 - __main__ - INFO - Logs: logs/todo_api.log
+2025-12-18 01:19:42 - __main__ - INFO - 
+2025-12-18 01:19:42 - __main__ - INFO - Available endpoints:
+2025-12-18 01:19:42 - __main__ - INFO -   POST /tasks                 - Create new task
+2025-12-18 01:19:42 - __main__ - INFO -   GET  /tasks                 - Get all tasks
+2025-12-18 01:19:42 - __main__ - INFO -   POST /tasks/{id}/complete   - Mark task as completed
+2025-12-18 01:19:42 - __main__ - INFO - 
+2025-12-18 01:19:42 - __main__ - INFO - Press Ctrl+C to stop the server
+2025-12-18 01:19:42 - __main__ - INFO - ==================================================
+2025-12-18 01:19:42 - server - INFO - Todo API Server starting on http://localhost:8080
+2025-12-18 01:19:42 - server - INFO - Storage file: tasks.txt
+2025-12-18 01:19:42 - server - INFO - Ready to accept connections
+2025-12-18 01:19:56 - handler - INFO - GET /tasks from 127.0.0.1
+2025-12-18 01:19:56 - handler - INFO - 127.0.0.1 - "GET /tasks HTTP/1.1" 200 -
+2025-12-18 01:19:56 - handler - WARNING - GET /favicon.ico - Not found
+2025-12-18 01:19:56 - handler - INFO - 127.0.0.1 - "GET /favicon.ico HTTP/1.1" 404 -
+2025-12-18 01:30:17 - __main__ - INFO - ╔══════════════════════════════════════════╗
+2025-12-18 01:30:17 - __main__ - INFO - ║         Simple Todo Api v1.0             ║
+2025-12-18 01:30:17 - __main__ - INFO - ║         HTTP Task Management    :)       ║
+2025-12-18 01:30:17 - __main__ - INFO - ╚══════════════════════════════════════════╝
+2025-12-18 01:30:17 - __main__ - INFO - 
+2025-12-18 01:30:17 - __main__ - INFO - Server URL: http://localhost:8080
+2025-12-18 01:30:17 - __main__ - INFO - Storage: tasks.txt
+2025-12-18 01:30:17 - __main__ - INFO - Logs: logs/todo_api.log
+2025-12-18 01:30:17 - __main__ - INFO - 
+2025-12-18 01:30:17 - __main__ - INFO - Available endpoints:
+2025-12-18 01:30:17 - __main__ - INFO -   POST /tasks                 - Create new task
+2025-12-18 01:30:17 - __main__ - INFO -   GET  /tasks                 - Get all tasks
+2025-12-18 01:30:17 - __main__ - INFO -   POST /tasks/{id}/complete   - Mark task as completed
+2025-12-18 01:30:17 - __main__ - INFO - 
+2025-12-18 01:30:17 - __main__ - INFO - Press Ctrl+C to stop the server
+2025-12-18 01:30:17 - __main__ - INFO - ==================================================
+2025-12-18 01:30:17 - server - INFO - Todo API Server starting on http://localhost:8080
+2025-12-18 01:30:17 - server - INFO - Storage file: tasks.txt
+2025-12-18 01:30:17 - server - INFO - Ready to accept connections
